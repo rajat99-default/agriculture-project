@@ -1,7 +1,16 @@
 const App = () => {
   return (
     <>
-      <h1>this app</h1>
+    <center>
+
+      <div id='wrapper'>
+
+      </div>
+    </center>
+
+    <div>
+      
+    </div>
     </>
   )
 }
